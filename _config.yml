@@ -20,8 +20,8 @@
 
 title:            'Re/Member Black Philadelphia'
 description:      'A Digital Multimodal Digital Scholarship Project'
-url:              'https://jgarcon1.github.io/jgarcon1.github.io-824test/'
-baseurl:          '/wax'
+url:              'https://jgarcon1.github.io/'
+baseurl:          '/824test'
 copyright:        'Example copyright org, 2020'
 logo:             '/assets/logo.png'
 

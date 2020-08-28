@@ -7,7 +7,7 @@ show_title: false
   #y: 25%
   #height: '500px'
 ---
-<iframe frameborder="0" class="juxtapose" width="740" height="550" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b5dbca90-dca9-11ea-bf88-a15b6c7adf9a"></iframe>
+<iframe frameborder="0" class="juxtapose" width="940" height="550" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b5dbca90-dca9-11ea-bf88-a15b6c7adf9a"></iframe>
 
 __Re/Member Black Philadelphia__ is a multimodal digital scholarship and community archiving project, which investigates the increasingly endangered contexts of Black social and cultural life against the backdrop of this systematic displacement. First and foremost, this project is an act of love for Black Philadelphia and of resistance to the erasure of Black communities in Philadelphia, as in many parts of the world. First conceptualized in 2014,  Re/Member Black Philadelphia utilizes digital media and technology to document and celebrate the rich experiences, institutions, spaces, and cultures of Black people in the city.
 

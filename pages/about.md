@@ -23,4 +23,4 @@ The Re/member Black Philadelphia collaboration is a joint project of the Penn Li
 
 ## Want to contribute?
 
-<style>.forms-studio{position:relative;padding-bottom:56.25%;overflow:hidden;width:100%;height:600px;}.forms-studio iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:0;}</style><div class='forms-studio'><iframe src='https://script.google.com/macros/s/AKfycbxnYJyN1aLZnz9_u5k3xx4wIDJeuIm_YX8xzAIrbQsfAeZLsjhC/exec'></iframe></div>
+<style>.forms-studio{position:relative;padding-bottom:56.25%;overflow:hidden;width:100%;height:400px;}.forms-studio iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:0;}</style><div class='forms-studio'><iframe src='https://script.google.com/macros/s/AKfycbxnYJyN1aLZnz9_u5k3xx4wIDJeuIm_YX8xzAIrbQsfAeZLsjhC/exec'></iframe></div>
